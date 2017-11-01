@@ -4,4 +4,4 @@ Hyper Extention 만들기
 
 변경사항 
 
-hyper 입력과 테두리 Bule록 적용
+hyper 입력과 테두리 Blue록 적용
